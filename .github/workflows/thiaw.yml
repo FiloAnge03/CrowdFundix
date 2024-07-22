@@ -1,0 +1,17 @@
+name: thiaw
+run-name: thiaw da parte di ${{ github.actor }} 
+on: [push]
+jobs:
+  thiaw-fa-cose:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "FThiaw"
+      thiaw:
+        runs-on: ubuntu-latest
+    steps:
+      - run: echo "Bella"
+         leao-morata-pulisic:
+        runs-on: ubuntu-latest
+    steps:
+      - run: cd ../javademo
+      mvn install
